@@ -23,7 +23,7 @@ print(vec1)
 append(vec,34)
 append(vec, 100, after=2)
 append(vec,133, after=0)
-vec2 <- (200,vec)
+# vec2 <- (200,vec)
 print(vec2)
 
 #indexing

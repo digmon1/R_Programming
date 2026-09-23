@@ -50,5 +50,7 @@ array(c(1,2,3,4,5,6,7,8,9), dim=c(3,3))
 a <- array(c(1,2,3,4,5,6,7,8,9), dim=c(2,2,3))
 a[2,2,1]
 a[1,1,3]
-as.vector(x)
+as.vector(a)
 typeof(a)
+
+
