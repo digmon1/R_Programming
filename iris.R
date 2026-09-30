@@ -9,3 +9,5 @@ str(iris)
 mean(iris$Sepal.Length)
 median((iris$Petal.Width))
 max(iris$Petal.Width)
+
+
